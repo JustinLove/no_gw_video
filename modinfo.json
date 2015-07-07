@@ -4,9 +4,9 @@
   "category": ["galactic-war", "ui"],
   "context": "client",
   "date": "2015/07/06",
-  "description": "Prevent the GW into video from playing.",
+  "description": "Prevent the GW intro video from playing.",
   "display_name": "No GW Video",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-no-gw-video.69207/",
   "identifier": "com.wondible.pa.no_gw_video",
   "priority": 100,
   "scenes": {
@@ -16,6 +16,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
