@@ -1,0 +1,21 @@
+{
+  "author": "wondible",
+  "build": "83391",
+  "category": ["galactic-war", "ui"],
+  "context": "client",
+  "date": "2015/07/06",
+  "description": "Prevent the GW into video from playing.",
+  "display_name": "No GW Video",
+  "forum": null,
+  "identifier": "com.wondible.pa.no_gw_video",
+  "priority": 100,
+  "scenes": {
+    "gw_play": [
+      "coui://ui/mods/no_gw_video/no_gw_video.css",
+      "coui://ui/mods/no_gw_video/no_gw_video.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
