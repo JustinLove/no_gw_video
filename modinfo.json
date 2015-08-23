@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "83391",
+  "build": "86422",
   "category": ["galactic-war", "ui"],
   "context": "client",
-  "date": "2015/07/06",
+  "date": "2015/08/23",
   "description": "Prevent the GW intro video from playing.",
   "display_name": "No GW Video",
   "forum": "https://forums.uberent.com/threads/rel-no-gw-video.69207/",
@@ -11,11 +11,10 @@
   "priority": 100,
   "scenes": {
     "gw_play": [
-      "coui://ui/mods/no_gw_video/no_gw_video.css",
       "coui://ui/mods/no_gw_video/no_gw_video.js"
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
 
