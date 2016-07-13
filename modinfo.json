@@ -1,12 +1,13 @@
 {
   "author": "wondible",
-  "build": "86422",
-  "category": ["galactic-war", "ui"],
+  "build": "94684",
+  "category": ["gw", "titans"],
   "context": "client",
-  "date": "2015/08/23",
-  "description": "Prevent the GW intro video from playing.",
-  "display_name": "No GW Video",
+  "date": "2016/07/13",
+  "description": "Prevent the Galactic War intro video from playing.",
+  "display_name": "No Video for galactic war",
   "forum": "https://forums.uberent.com/threads/rel-no-gw-video.69207/",
+  "icon": "http://wondible.com/pa/icons/no_gw_video.png",
   "identifier": "com.wondible.pa.no_gw_video",
   "priority": 100,
   "scenes": {
@@ -15,6 +16,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
 
